@@ -1,0 +1,5 @@
+.venv
+.env
+
+exported_problems
+./downloads
